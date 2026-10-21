@@ -1,0 +1,10 @@
+.runtime/
+*.log
+*.env
+.env*
+*client_secret*
+*credential*
+*token*
+*.age
+*.dump
+*.tar.gz
